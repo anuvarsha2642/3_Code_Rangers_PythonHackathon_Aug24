@@ -1,0 +1,19 @@
+﻿ID,age,Weight,Height,P_vt1,P_vt2,sport,Gender,Ethnicity,First Name,Last Name
+1,15,53.7,161,50,140,fencing,Female,African,Olivia,Martinez
+2,15,56.2,162,80,127,fencing,Male,African,Ethan,Reynolds
+3,16,89.9,191,155,300,fencing,Male,White,Jackson,Harper
+4,16,76.5,180,215,275,fencing,Male,White,Liam,Sanchez
+5,17,76.4,186,110,172,fencing,Female,White,Ava,Thompson
+6,17,65.6,169,131,186,fencing,Female,White,Sophia,Rodriguez
+7,15,49.8,165,65,108,fencing,Female,White,Grace,Simmons
+8,15,51.2,165,80,133,fencing,Female,White,Aiden,Bennett
+9,14,57.1,176,50,125,fencing,Female,African,Chloe,Price
+10,14,58.8,177,101,162,fencing,Female,African,Lily,Jordan
+11,18,84.8,182,174,268,kayak,Female,African,Isabella,Griffin
+12,18,86,183,170,294,kayak,Male,African,Caleb,Dixon
+13,18,83.9,183,144,267,kayak,Female,Asian,Mia,Carpenter
+14,13,62.3,171,140,170,kayak,Female,Asian,Harper,Mitchell
+15,13,63.5,172,125,156,kayak,Male,Latino,Mason,Wallace
+16,16,70.4,182,79,175,kayak,Male,Latino,Logan,Anderson
+17,12,39.9,156,101,145,triathlon,Male,Latino,Lucas,Foster
+18,12,39.7,158,65,168,triathlon,Male,Latino,Owen,Myers
